@@ -1,0 +1,11 @@
+9	tsr
+
+airfoil no	airfoil name
+1	circular
+2	SNL-FFA-W3-500
+3	FFA-W3-360
+4	FFA-W3-330blend
+5	FFA-W3-301
+6	FFA-W3-270blend
+7	FFA-W3-241
+8	FFA-W3-211

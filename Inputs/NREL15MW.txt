@@ -1,0 +1,9 @@
+NREL 15MW input file
+------------------------------
+134						R - Turbine Radius
+9						tsr - Tip speed ratio 
+Section Data
+-------------------------------
+5.62						chord
+0.20						twist
+16.71						r - local radius/spanwise position
